@@ -1,2 +1,3 @@
 # MyProgrammingPortfolio
-My first repository
+This is my cpp programs repository
+
